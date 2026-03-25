@@ -1,0 +1,16 @@
+complaint_id,category,priority,reason,flag
+PM-202401,Pothole,Standard,The description mentions 'pothole' classifying it as Pothole.,
+PM-202402,Pothole,Urgent,The description mentions 'pothole' classifying it as Pothole and mentions 'child' making the priority Urgent.,
+PM-202406,Flooding,Standard,The description mentions 'flood' classifying it as Flooding.,
+PM-202408,Flooding,Standard,The description mentions 'flood' classifying it as Flooding.,
+PM-202410,Streetlight,Standard,The description mentions 'streetlight' classifying it as Streetlight.,
+PM-202411,Streetlight,Urgent,The description mentions 'streetlight' classifying it as Streetlight and mentions 'hazard' making the priority Urgent.,
+PM-202413,Waste,Standard,The description mentions 'garbage' classifying it as Waste.,
+PM-202418,Noise,Standard,The description mentions 'music' classifying it as Noise.,
+PM-202419,Road Damage,Standard,The description mentions 'cracked' classifying it as Road Damage.,
+PM-202420,Other,Urgent,The description lacks known issue keywords so it requires manual review.,NEEDS_REVIEW
+PM-202427,Flooding,Standard,The description mentions 'flood' classifying it as Flooding.,
+PM-202428,Waste,Standard,The description mentions 'dead animal' classifying it as Waste.,
+PM-202430,Other,Standard,The description contains ambiguous references to heritage and lights requiring review.,NEEDS_REVIEW
+PM-202433,Waste,Standard,The description mentions 'waste' classifying it as Waste.,
+PM-202446,Road Damage,Urgent,The description mentions 'footpath tiles broken' classifying it as Road Damage and mentions 'fell' making the priority Urgent.,
